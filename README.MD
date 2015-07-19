@@ -11,5 +11,5 @@
 
 
 - 给出字符串相应类型的子串（getSubstringAllType()）
-        eg. Input:123a@!bc
-            Output:[('123', 'num'), ('a', 'char'), ('@!', 'spe'), ('bc', 'char')]
+    - Input：123a@!bc
+    - Output：[('123', 'num'), ('a', 'char'), ('@!', 'spe'), ('bc', 'char')]
